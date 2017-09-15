@@ -1,26 +1,14 @@
 {
-	"name": "zhanghao1116/test",
-	"description": "我在测试",
-	"keywords": [
-		"tree",
-		"无限分类",
-		"tree-data"
-	],
-	"minimum-stability": "stable",
-	"authors": [
-		{
-			"name": "zhanghao",
-			"email": "zhanghao_15@yeah.net"
-		}
-	],
-	"require": {
-
-		"php": ">=5.4"
-	},
-	"license": "MIT",
-	"autoload": {
-		"psr-4": {
-			"Tree\\": "src/"
-		}
-	}
+    "name": "zhanghaodev/test",
+    "description": "test",
+    "type": "library",
+    "license": "RC",
+    "authors": [
+        {
+            "name": "zhanghao",
+            "email": "zhanghao_15@yeah.net"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
 }
